@@ -39,3 +39,32 @@
 - cognitive closure: the desire for a confident judgement on an issue
 - high emotional need for cognitive clousre is correlated to more accomplished people
 - but the need for cognitive closure introduces a bias towards fast solutions in the judgemental process
+- cognitive closure is composed of 2 needs:
+    - need to seize a goal when it meets the minimum treshold of acceptability. POSITIVE: it keeps us from endless debates in favour of action
+    - need to freeze on an objective once selected. NEGATIVE: makes us blind to information inconsistent with our preconceptions
+- SMART goals are: specific, measurables, achievable, realistic and based on a timeline
+- Be Careful: goals need to be abitious too, not only SMART
+- you need to balance the psychological influence of immediate goals with the freedom to think about bigger things
+- many studies showd that forcing people to commit to ambitious, seemingly out-of-reach objectives (stretch goals) can spark outsized hymps in innovation and productivity
+- audaciousness can be terrifying, so we have to couple it with SMART goals
+- p120 image - goal setting flowchart
+- stretch and SMART goals are not enough: sometimes we still need to pause and ponder whether our goals make sense
+
+## Managing others
+- most companies' cultures fall in 1 of 5 categories:
+    - **star model**: investing a lot of money in hiring elite employees
+    - **engineering model**: not many stars, but the egineers take the most important decisions
+    - **bureaucracy model**: many ranks of managers, thick employee handbook, everything is spelled out
+    - **autocracy model**: similar to above, but everything is aimed to the CEO's vision
+    - **commitment model**: leaders want people to only leave when they retire or die. Slow and steady growth
+- commitment culture is by far the most profitable:
+    - employees are the hardest asset to find. When everyone wants to stick around you have a pretty strong advantage
+
+## Decision making
+- think about the future as a set of event that might happen
+- probabilistic thinking is the ability to hold multiple, contrasting outcomes in your mind and estimate their relative odds
+- to leverage our brain's incredible forecasting ability we need to be exposedto many different sample
+    - one common bias is being exposed to too many successful companies and too few failed ones
+
+## Innovation
+- the highest impact science is primarily grounded in exceptionally conventional combinations of prior work yet simultaneously features an intrusion of unusual combinations
