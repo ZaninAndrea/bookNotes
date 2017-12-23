@@ -68,3 +68,6 @@
 
 ## Innovation
 - the highest impact science is primarily grounded in exceptionally conventional combinations of prior work yet simultaneously features an intrusion of unusual combinations
+- A lot of people we think of as exceptionally creative are essentially idea brokers (middlemen that bring ideas from a field to another)
+- "Creativity is just connecting things" Steve Jobs
+- A simple way to become idea brokers is to use our own experiences as raw material
