@@ -1,3 +1,3 @@
 # bookNotes
 
-Notes taken while reading books
+Notes taken while reading various books
