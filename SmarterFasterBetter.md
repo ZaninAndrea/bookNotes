@@ -71,3 +71,13 @@
 - A lot of people we think of as exceptionally creative are essentially idea brokers (middlemen that bring ideas from a field to another)
 - "Creativity is just connecting things" Steve Jobs
 - A simple way to become idea brokers is to use our own experiences as raw material
+- creativity drops when we become overly-concerned with keeping what we already have achieved
+- intermediate disturbance hypotesis: local species diversity is maximized when ecological disturbance is neither too rare nor too frequent
+- look to your own life as a creative fodder
+- anxiety is what often forces us to see old ideas in new ways
+- it is critical to maintain some distance from what we create
+
+## Absorbing data
+- to make data useful it's crucial engaging with it, not only receiving it in a passive way
+- information blindness: it's the tendency of our brain to stop absorbing data when there is too much
+- formulating hypotesis and testing them on the field is an effective way of engaging with data
