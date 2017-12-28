@@ -81,3 +81,51 @@
 - to make data useful it's crucial engaging with it, not only receiving it in a passive way
 - information blindness: it's the tendency of our brain to stop absorbing data when there is too much
 - formulating hypotesis and testing them on the field is an effective way of engaging with data
+- the engineering deisgn process is a series of steps that engineers follow when they are trying to solve a problem
+    - define precisely the dilemma
+    - conduct research
+    - come up with multiple solutions
+    - conduct tests 
+    - measure results
+    - repeat until you found a soluzione
+- this process forces us to engage with data
+- when presented with decisions, after adopting one way to approach di issue, it's very hard to view it from another point of view
+
+## A reader's guide to using these diea
+### Motivation
+- starting a task, even doing just a little work, ofren gives you the motivation to complete it
+- asking ourselves "why?" helps us remember that chores are a step along a longer path
+- to generate motivation
+    - make a choice that puts you in control
+    - figure out how this task is  connected to something you care about
+
+### Goal setting
+- choose a stretch goal
+- then break that goal into subgoals and develop SMART objectives
+
+### Focus
+- Envision what will happen. what will occur first? What are potential obstacles? How will you preempt them? Telling yourself a story about what you expect to occur makes it esier to decide where your focus should go when your plan encounters real life
+
+### Decision making
+- try to adopt probabilistic thinking: envision multiple futures and figure out which ones are most likely. This also helps you make wiser decisions when those futures happen, because you already predicted them
+- we can hone our Bayesian instincts by seeking out different experiences, perspectives, and other people's ideas. By finding information and then letting ourselves sit with it, options become clearer
+
+### To make teams more effective
+- To make teams more effective manage the *how* not the *who* of the team. Focus on creating psychological safety.
+- If you are a leader try to be a role model in creating psychological safety
+
+### To manage others productively
+- Emplyees work better when they are given some authority and when they believe their colleagues are committed to their success
+- push the decisions to the person closest to the issue, this way you leverage everyone's expertise
+- people need to know that their suggestions won't be ignored and their mistakes won't  be held against them
+
+### To encourage innovation
+- creativty often emerges by combining old ideas in new ways
+- To become an innovation broker:
+    - be sensitive  to your own experiences
+    - recognize that the stress that emerges amid the creative process isn't a sign of everything falling apart
+    - remember that a creative breakthrough can also make us blind to alternatives
+
+### To absorb data better
+- create some disfluency in the information to force yourselve to engage with it
+- learn from every experience and continue formulating hhypotesis and testing them
