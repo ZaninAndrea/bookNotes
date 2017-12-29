@@ -120,7 +120,7 @@
 - people need to know that their suggestions won't be ignored and their mistakes won't  be held against them
 
 ### To encourage innovation
-- creativty often emerges by combining old ideas in new ways
+- creativity often emerges by combining old ideas in new ways
 - To become an innovation broker:
     - be sensitive  to your own experiences
     - recognize that the stress that emerges amid the creative process isn't a sign of everything falling apart
