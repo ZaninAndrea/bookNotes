@@ -66,3 +66,27 @@ Our perceptions can be a source of strength or a weakness. It can be a strength 
 ### Think differently
 - Believe in yourself and in your capabilities, because even though what we believe isn't bound to come true it surely influences what will come true.
 - an enterpreneur is someone with faith in their ability to make something where there was nothing before
+
+### Finding the opportunity
+- We tend to label everything that doesn't comply to our vision of how the world should be as detrimental to us, but if we can push past this first impulse we can find the opportunity inside every obstacle:
+    - Bad boss: an opportunity to take more risks knowing that you can alwways quit, you would have done that anyway
+    - bad business decision: you had a hypothesis and it was wrong, learn from it, like  scientist would
+
+### Prepare to act
+The worst thing to happen is never the event, it's the vent + you losing your head, while the former is out of your control, the latter is in your control
+
+## Action
+- Every action has to be in the service of the whole
+- our actions define us
+
+### The discipline of action
+- Many times we recognize the obstacle and the possible solutions, but we fail to act, we think that maybe the obstacle will vanish by itself
+- it doesn't matter what you are given, it matters how you use it
+    - people have overcame obstacles far greater than yours: physical disabilities, racial discrimination, ...
+- faced with obstacles we don't give up, because we have something to do and the only way to do it is through action
+
+### Get moving
+- when you do nothing you accomplish nothing
+- first get started, somewhere, anywhere, then try harder, because you know you can
+- be deliberate, but always moving forward
+- just because the conditions are perfect, doesn't mean you get to do nothing
