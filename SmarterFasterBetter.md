@@ -1,4 +1,16 @@
 # Smarter Faster Better, Charles Duhigg
+## Key takeaways
+1. To be motivated we need to feel in control.
+2. Teams need psychological safety to succeed.
+3. Imagining what you expect to see helps you focus on the right things.
+4. Try to couple SMART and stretch goals.
+5. Employees are the hardest asset to find.
+6. Try to adopt probabilistic thinking.
+7. Creativity often emerges by combining old ideas in novel ways.
+8. To make data useful it's essential engaging with it
+
+For a more thourough summary see the "Reader's guide" below.
+
 ## Motivation
 - The striatum is a central dispatch for the brain: it connects, among the others, the prefrontal cortex to the basal ganglia
     - the striatum activity is associated with emotional reactions
@@ -91,7 +103,7 @@
 - this process forces us to engage with data
 - when presented with decisions, after adopting one way to approach di issue, it's very hard to view it from another point of view
 
-## A reader's guide to using these diea
+## A reader's guide to using these ideas
 ### Motivation
 - starting a task, even doing just a little work, ofren gives you the motivation to complete it
 - asking ourselves "why?" helps us remember that chores are a step along a longer path

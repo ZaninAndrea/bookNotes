@@ -1,5 +1,8 @@
 # The Power of Habit, Charles Duhigg
-Notes starting from chapter 7.
+## Key takeaways
+Habits are composed of a cue, a routine and a reward, you can replace a bad habit by chaging the routine, but maintaining cue and reward, or you can stop a bad habit all together by removing the cue.
+
+## Notes starting from chapter 7.
 
 - Shops put fruit close to the entrance, because if you buy healthy food, you are then more inclined to buy also junk food
 - habits are more apt to change after major life events
