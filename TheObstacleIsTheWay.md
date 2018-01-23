@@ -90,3 +90,5 @@ The worst thing to happen is never the event, it's the vent + you losing your he
 - first get started, somewhere, anywhere, then try harder, because you know you can
 - be deliberate, but always moving forward
 - just because the conditions are perfect, doesn't mean you get to do nothing
+
+> ### STOPPED HERE, BECAUSE THE BOOK BECAME TOO REPETITIVE
