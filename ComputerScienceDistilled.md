@@ -68,3 +68,44 @@ function power_set(flowers)
 - the knapsack can be solved through divide and conquer: base case: 0 elements to fit. To merge solution take the one that maxs the revenue.
 
 ### Dynamic programming
+Sometimes identical computations are performed multiple times when solving a problem. Dynamic programming is identifying repeated subproblems in order to compute them only once
+
+### Branch and bound
+Find the upper and lower bounds, then discard every option that doesn't fit before doing any calculation.
+
+## Data
+### Abstract data types
+An Abstract Data Type (ADT) is the specification of a group of operations that make sense for a given data type.
+
+It allows us to separate the interface from the implementation of the various operations.
+
+### Common abstractions
+Among the common abstractions:
+- stack
+- queue
+- priority queue (elements have a priority)
+- list
+- sorted list
+- map (aka Dictionary)
+- set (unordered group)
+
+### Structure
+Data structures define how data is organized in the computer memory.
+Among those:
+- array
+- linked list
+- double linked list
+- tree
+- binary search tree
+- self balancing trees
+- binary heap: like binary trees but the parent node has to be smaller (or greater) than both children. Useful to implement priority queues
+- graph
+- hash tables: search is O(1), but it requires a lot of memory. They have the issue of hash collisions: 2 items having the same hash, to solve this use a linked list as element of the has table. Too many collisions lower the performance
+
+## Algorithms
+### Sorting
+Quicksort and mergesort are good for not sorted at all datasets
+Insertion sort is good for almost sorted datasets
+
+### Search
+
