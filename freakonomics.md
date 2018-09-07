@@ -22,7 +22,6 @@ Cheating is a primal economic act: getting more for less. Everybody will cheat, 
 
 High stakes tests encourage teachers to cheat in order to raise the scores of their pupils: from plainly telling the answers to teaching specifically for the test.
 
-
 # Lexicon
 wont: habit to do
 thicket: dense group of bushes
